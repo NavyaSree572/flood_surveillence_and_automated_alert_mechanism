@@ -167,7 +167,7 @@ Alerts are triggered when a new person is detected at a flood-prone location. Ea
 ### 🔔 Alert Notifications
 
 **SMS Alert**
-![SMS Alert] (sms_alert.png)
+![SMS Alert](sms_alert.png)
 
 **Email Alert (Received)**
 ![Email Alert](email_alert_received.png)
