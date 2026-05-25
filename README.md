@@ -1,4 +1,4 @@
-# 🌊 Flood Guardian — AI-Powered Flood Surveillance System
+# 🌊 AI-Powered Flood Surveillance and Automatic Alert Mechanism System
 
 An intelligent flood surveillance system that uses computer vision to detect people in distress during flood events and automatically alerts rescue teams via SMS, Email, and Telegram.
 
@@ -167,7 +167,7 @@ Alerts are triggered when a new person is detected at a flood-prone location. Ea
 ### 🔔 Alert Notifications
 
 **SMS Alert**
-![SMS Alert](screenshots/sms_alert.png)
+![SMS Alert](sms_alert.png)
 
 **Email Alert (Received)**
 ![Email Alert](screenshots/email_alert_received.png)
