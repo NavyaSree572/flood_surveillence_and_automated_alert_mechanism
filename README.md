@@ -169,10 +169,10 @@ Alerts are triggered when a new person is detected at a flood-prone location. Ea
 **SMS Alert**
 ![SMS Alert](sms_alert.png)
 
-**Email Alert (Received)**
-![Email Alert](email_alert_received.png)
+**Telegram Alert (Received)**
+![](email_alert_received.png)
 
-**Telegram Alert**
+**Website Alert**
 ![Telegram Alert](telegram_alert.png)
 
 ---
@@ -182,27 +182,16 @@ Alerts are triggered when a new person is detected at a flood-prone location. Ea
 **Public Safety Portal**
 ![Public Dashboard](dashboard_public.png)
 
-**Public Do's & Don'ts Panel**
-![Dos and Donts](dashboard_dos_donts.png)
+
 
 **Rescue Team — Regional Alerts**
 ![Rescue Alerts](dashboard_rescue_alerts.png)
 
-**Rescue Team — Operations View**
-![Rescue Team Dashboard](dashboard_rescue_team.png)
+
 
 ---
 
-### 🧠 Model Performance
 
-**Detection Metrics**
-![Model Metrics](model_metrics.png)
-
-**Precision-Recall Curve**
-![PR Curve](pr_curve.png)
-
-**F1 Score Curve**
-![F1 Score](f1_score.png)
 
 ---
 
